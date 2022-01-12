@@ -1,0 +1,21 @@
+olá mundo!
+
+Esse é o meu primeiro arquivo para testar o git
+
+teste de alteração
+
+cd                     ->diretorio
+git init               -> cria um repositorio
+git add arquivo.txt    -> passa a monitorar o arquivo.txt
+git status             -> exibe as modificações ou estado do                            repositorio
+git ls -la             -> lista os arquivos do diretorio
+git rm arquivo.txt     -> remove um arquivo
+git mv a/arquivo.txt ./-> move um arquivo
+
+arquivo com extensão .gitignore, lista os diretorios e arquivos que o git deve ignorar.
+
+git remote add origin http:\\link  -> configura o repositorio remoto
+git remote -v   -> exibe os respositorios remotos existentes
+git pull origin main -> sincroniza o respositorio local e o remoto
+
+
